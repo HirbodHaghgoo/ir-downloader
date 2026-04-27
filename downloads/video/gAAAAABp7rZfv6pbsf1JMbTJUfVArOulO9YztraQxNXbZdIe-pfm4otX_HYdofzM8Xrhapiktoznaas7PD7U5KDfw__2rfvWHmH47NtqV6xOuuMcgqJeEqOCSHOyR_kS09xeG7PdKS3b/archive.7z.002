@@ -1,0 +1,1 @@
+2003-2020 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:-1:-1 analyse=0x1:0x111 me=hex subme=4 psy=1 psy_rd=1.00:0.15 mixed_ref=0 me_range=16 chroma_

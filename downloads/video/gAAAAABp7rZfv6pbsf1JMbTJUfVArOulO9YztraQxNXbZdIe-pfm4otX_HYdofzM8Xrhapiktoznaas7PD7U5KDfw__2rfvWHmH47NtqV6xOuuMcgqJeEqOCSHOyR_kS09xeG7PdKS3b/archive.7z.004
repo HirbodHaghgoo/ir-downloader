@@ -1,0 +1,1 @@
+strained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=200 keyint_min=100 scenecut=40 intra_refresh=0 rc_lookahead=100 rc=cr
